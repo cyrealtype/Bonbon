@@ -4,3 +4,5 @@ The letterforms are artistic and naive as if they are written in a teenage girl'
 Bonbon is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
+
+![Bonbon Font](src/sample.png)
